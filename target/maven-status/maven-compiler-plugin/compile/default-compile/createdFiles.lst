@@ -1,0 +1,4 @@
+oauth1\header\OAuthController.class
+oauth1\header\OAuthDetails.class
+oauth1\header\AuthorizationHeaderApplication.class
+oauth1\header\GenerateSignature.class

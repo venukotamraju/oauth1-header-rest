@@ -1,0 +1,5 @@
+# Created at 2024-10-08T13:04:48.910
+Boot Manifest-JAR contains absolute paths in classpath 'A:\Ni_Daible\Essence\JavaSts\OAuth-1-Header\AuthorizationHeader\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
