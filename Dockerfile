@@ -1,5 +1,5 @@
 # Use the official OpenJDK image as a base
-   FROM openjdk:21-jre-slim
+   FROM bellsoft/liberica-runtime-container:jre-21-musl
 
    # Set the working directory
    WORKDIR /app
